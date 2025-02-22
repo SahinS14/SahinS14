@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SahinS14
+- 👋 Hi, I’m Sahin Pradhan
 - 👀 I’m interested in CODING 
 - 🌱 I’m currently learning DSa in java
-- 💞️ I’m looking to collaborate on starup venture
+- 💞️ I’m looking to collaborate on startup venture
 - 📫 How to reach me sahinpradhan41@gmail.com
 - 😄 Pronouns: he /him
 - ⚡ Fun fact: i am an introvert
