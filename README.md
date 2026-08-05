@@ -1,5 +1,26 @@
-# 💫 About Me:
-# Hi there, I'm Sahin Pradhan 👋<br><br>🎓 3rd Year Computer Science Engineering Student at Silicon University<br><br>I'm passionate about building scalable software, solving real-world problems, and transforming ideas into impactful products. My interests span Full-Stack Development, AI, System Design, Cloud Technologies, and Product Engineering.<br><br>## 🚀 What I'm Working On<br>- Building real-world full-stack applications<br>- Exploring AI-powered products and automation<br>- Strengthening Data Structures & Algorithms<br>- Preparing for Product-Based Companies and GATE 2027<br><br>## 💻 Tech Stack<br>Java • Python • JavaScript • TypeScript  <br>React • Next.js • Flutter • Node.js • Express  <br>PostgreSQL • MongoDB • Supabase • Docker • Git • REST APIs<br><br>## 🏆 Highlights<br>- 🥈 Winner at Hack for Tomorrow (VSSUT Burla)<br>- 📱 Built multiple production-focused projects<br>- 🌱 Always learning new technologies and system design<br><br>> "Build products that solve problems, not just projects that fill portfolios."<br><br>📫 Feel free to connect and collaborate!
+<h2>Hey, I'm Sahin Pradhan 👋</h2>
+
+<p><strong>Software Engineer | Problem Solver | AI Explorer</strong></p>
+
+<p>
+Designing scalable systems, crafting high-performance applications, and building products that solve real-world problems.
+</p>
+
+
+### Currently Building
+
+- AI-powered applications
+- Scalable backend systems
+- Full-stack SaaS products
+- Developer tooling
+
+### Highlights
+
+- 🏆 Hackathon Winner
+- 📄 Research in Remote Sensing & AI
+- 🚀 Built multiple end-to-end production-grade applications
+
+> *Building software that scales, not just code that runs.*
 
 
 ## 🌐 Socials:
